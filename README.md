@@ -5,17 +5,11 @@ RAAAAAAWR! IMMA TIGER UNICORN WITH PURPLE HIGHLIGHTS IN MY BEAUTIFUL FROSTING HA
 
 
 ##CS470/570 - Artificial Intelligence 
-<<<<<<< HEAD
 Spring 2013
 Project #2
 Due: Friday, March 10th 
 
 ##
-=======
-###Spring 2013
-###Project #2
-###Due: Friday, March 10th 
->>>>>>> origin/master
 Connect Four is played on a vertical board with 7 columns each 6 positions high  . Players alternate dropping different colored pieces into one of the 7 columns. Once a column is filled (i.e. six pieces have been dropped into it) that column is no longer a legal move. The goal is to get four pieces in a row: vertically, horizontally, or diagonally. It is possible for the game to be a tie, if the board is filled without anyone connecting four pieces. This is a relatively easy game for computers because of the low branching factor. There are lots of on-line versions (e.g. https://www.mathsisfun.com/games/connect4.html) if you want to play.
 
 ####Project: 
@@ -47,15 +41,10 @@ You need to hand in a typed write-up containing the following:
 
 
 
-<<<<<<< HEAD
 ####Project #2a
 Due: Wednesday, March 1st
 
 ##
-=======
-###Project #2a
-###Due: Wednesday, March 1st
->>>>>>> origin/master
 Write a program that allows two humans to play Connect Four on the computer. This is simply the starting point for Project 2. The next step will be to replace one of the human players with the minmax algorithm described in the full project hand-out.
 
 ####Requirements: 
