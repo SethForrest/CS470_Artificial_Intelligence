@@ -1,4 +1,4 @@
-# CS470_Artificial_Intelligence
+# Connect Four
 Repo for my AI assignments
 RAAAAAAWR! IMMA TIGER UNICORN WITH PURPLE HIGHLIGHTS IN MY BEAUTIFUL FROSTING HAIR <3
 
